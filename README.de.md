@@ -6,7 +6,7 @@ Jacob Hamburger (1826–1911), Landrabbiner von Mecklenburg-Strelitz, schrieb di
 
 | Teil | Artikel | Anmerkungen |
 | --- | ---: | ---: |
-| Abtheilung I, *Die biblischen Artikel* (Bd. 1) | 1.900 | 21.996 |
+| Abtheilung I, *Die biblischen Artikel* (Bd. 1, 2. Aufl. 1884) | 1.900 | 21.996 |
 | Abtheilung II, *Die talmudischen Artikel* (Bd. 2, 1883) | 853 | 15.890 |
 | Supplementbände I–VI (1886–1901): Bibel und Talmud; Nachtalmudisches bis auf Moses Mendelssohn | 273 | 6.041 |
 | **Zusammen** | **3.026** | **43.927** |

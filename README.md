@@ -6,7 +6,7 @@ Jacob Hamburger (1826–1911), rabbi of Mecklenburg-Strelitz, wrote the first Je
 
 | Part | Entries | Notes |
 | --- | ---: | ---: |
-| Abtheilung I, *Die biblischen Artikel* (vol. 1) | 1,900 | 21,996 |
+| Abtheilung I, *Die biblischen Artikel* (vol. 1, 2nd ed. 1884) | 1,900 | 21,996 |
 | Abtheilung II, *Die talmudischen Artikel* (vol. 2, 1883) | 853 | 15,890 |
 | Supplementbände I–VI (1886–1901): Bible and Talmud; post-talmudic Judaism up to Moses Mendelssohn | 273 | 6,041 |
 | **Total** | **3,026** | **43,927** |
