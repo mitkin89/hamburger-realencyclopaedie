@@ -1,5 +1,7 @@
 # Hamburger, Real-Encyclopädie für Bibel und Talmud – digitale Ausgabe
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24465434.svg)](https://doi.org/10.5281/zenodo.24465434)
+
 [English](README.md) · **Deutsch**
 
 Jacob Hamburger (1826–1911), Landrabbiner von Mecklenburg-Strelitz, schrieb die erste jüdische Enzyklopädie in deutscher Sprache. Dieses Repository enthält eine Transkription des Werks als strukturierte Daten und als DSL-Wörterbücher:
@@ -28,5 +30,7 @@ Aufbau und Auszeichnung sind in der [englischen Fassung](README.md#contents) bes
 - Transkription, strukturierte Daten, DSL-Dateien und die Abkürzungsliste: **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)**, siehe [LICENSE.md](LICENSE.md).
 
 ## Zitieren
+
+Itkin, Igor Mendel (Hg.): *Hamburger, Real-Encyclopädie für Bibel und Talmud – digital edition*, Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24465434
 
 Siehe [CITATION.cff](CITATION.cff). Jede Version wird auf Zenodo mit eigener DOI archiviert.

@@ -1,5 +1,7 @@
 # Hamburger, Real-Encyclopädie für Bibel und Talmud – digital edition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24465434.svg)](https://doi.org/10.5281/zenodo.24465434)
+
 **English** · [Deutsch](README.de.md)
 
 Jacob Hamburger (1826–1911), rabbi of Mecklenburg-Strelitz, wrote the first Jewish encyclopedia in German. This repository holds a transcription of the work as structured data and as DSL dictionaries:
@@ -42,5 +44,7 @@ The data were prepared for the free desktop library [Safran](https://github.com/
 - Transcription, structured data, DSL files and the list of abbreviations: **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, see [LICENSE.md](LICENSE.md).
 
 ## Citation
+
+Itkin, Igor Mendel (ed.): *Hamburger, Real-Encyclopädie für Bibel und Talmud – digital edition*, version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24465434
 
 See [CITATION.cff](CITATION.cff). Each release is archived on Zenodo with its own DOI.
