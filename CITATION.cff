@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+type: dataset
+title: "Hamburger, Real-Encyclopädie für Bibel und Talmud – digital edition (Abtheilung I and II, Supplementbände I–VI)"
+authors:
+  - family-names: Itkin
+    given-names: Igor Mendel
+version: "1.0.0"
+date-released: "2026-11-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/mitkin89/hamburger-realencyclopaedie"
+keywords: [Hamburger, Real-Encyclopädie, encyclopedia, Bible, Talmud, Jewish studies, DSL]
+references:
+  - type: book
+    title: "Real-Encyclopädie für Bibel und Talmud"
+    authors:
+      - family-names: Hamburger
+        given-names: Jacob
+    year: 1870
+    location:
+      name: Strelitz
