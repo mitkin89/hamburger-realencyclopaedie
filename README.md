@@ -1,5 +1,11 @@
 # Hamburger, Real-Encyclopädie für Bibel und Talmud – digital edition
 
+<p align="center">
+  <img src="portraits/hamburger.jpg" alt="Jacob Hamburger" title="Jacob Hamburger" height="180">
+  <br>
+  <sub>Jacob Hamburger</sub>
+</p>
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24465434.svg)](https://doi.org/10.5281/zenodo.24465434)
 
 **English** · [Deutsch](README.de.md)
